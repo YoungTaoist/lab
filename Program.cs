@@ -29,13 +29,3 @@ else if (oper == '*')
     total = a * b;
     Console.WriteLine("Умножение " + a + " на " + b + " равно " + total + ".");
 }
-
-else if (oper == '/')
-{
-    total = a / b;
-    Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
-}
-else
-{
-    Console.WriteLine("Неизвестный оператор.");
-}
