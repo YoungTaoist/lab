@@ -1,0 +1,30 @@
+c:\Program Files\Git\ystulab\bin\Debug\net7.0\ystulab.exe
+c:\Program Files\Git\ystulab\bin\Debug\net7.0\ystulab.deps.json
+c:\Program Files\Git\ystulab\bin\Debug\net7.0\ystulab.runtimeconfig.json
+c:\Program Files\Git\ystulab\bin\Debug\net7.0\ystulab.dll
+c:\Program Files\Git\ystulab\bin\Debug\net7.0\ystulab.pdb
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.csproj.AssemblyReference.cache
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.AssemblyInfoInputs.cache
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.AssemblyInfo.cs
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.csproj.CoreCompileInputs.cache
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.dll
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\refint\ystulab.dll
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.pdb
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ystulab.genruntimeconfig.cache
+c:\Program Files\Git\ystulab\obj\Debug\net7.0\ref\ystulab.dll
+C:\Users\Sergei\lab\bin\Debug\net7.0\ystulab.exe
+C:\Users\Sergei\lab\bin\Debug\net7.0\ystulab.deps.json
+C:\Users\Sergei\lab\bin\Debug\net7.0\ystulab.runtimeconfig.json
+C:\Users\Sergei\lab\bin\Debug\net7.0\ystulab.dll
+C:\Users\Sergei\lab\bin\Debug\net7.0\ystulab.pdb
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.csproj.AssemblyReference.cache
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.AssemblyInfoInputs.cache
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.AssemblyInfo.cs
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.csproj.CoreCompileInputs.cache
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.dll
+C:\Users\Sergei\lab\obj\Debug\net7.0\refint\ystulab.dll
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.pdb
+C:\Users\Sergei\lab\obj\Debug\net7.0\ystulab.genruntimeconfig.cache
+C:\Users\Sergei\lab\obj\Debug\net7.0\ref\ystulab.dll
