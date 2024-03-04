@@ -2,7 +2,7 @@
 double b;
 double total;
 char oper;
-
+Console.WriteLine("Приветствую вас, маленькие любители экстримизма.");
 Console.WriteLine("Введите первое число:");
 a = Convert.ToDouble(Console.ReadLine());
 
